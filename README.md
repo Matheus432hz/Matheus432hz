@@ -1,7 +1,6 @@
 ### Olá! Sou o Matheus 👋
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** | Focado em Backend & DevOps
-
 ☁️ **AWS Certified Cloud Practitioner** (Rumo às certificações SAA & DVA Associate)
 
 Sou apaixonado por transformar lógica em infraestrutura e automação. Atualmente estou aprofundando meus conhecimentos em:
